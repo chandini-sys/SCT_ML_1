@@ -49,22 +49,3 @@ Each row includes:
    - R² Score
 6. Predict price for new input
 
----
-
-## 🔎 Sample Output
-
-🖼️ Example Output:
-
-![Sample Output](screenshots/output.png)
-
-🎥 [Watch the Demo](media/demo.mp4)
-
----
-
-## 🚀 How to Run the Code
-
-1. Clone the repo:
-```bash
-git clone https://github.com/yourusername/house-price-prediction.git
-cd house-price-prediction
-
